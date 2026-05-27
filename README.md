@@ -74,9 +74,9 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=9b72cf)](https://linkedin.com/in/seu-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=9b72cf)](mailto:seuemail@gmail.com)
-[![Profile views](https://komarev.com/ghpvc/?username=Scopelyann&style=flat-square&color=9b72cf&label=profile+views)](https://github.com/Scopelyann)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=9b72cf)](https://linkedin.com/in/scopelyan)
+[![Gmail](https://img.shields.io/badge/Gmail-0a0a0a?style=flat-square&logo=gmail&logoColor=9b72cf)](mailto:yanvictorscopel@gmail.com)
+[![Profile views](https://komarev.com/ghpvc/?username=httpscopelyan&style=flat-square&color=9b72cf&label=profile+views)](https://github.com/httpscopelyan)
 
 </div>
 
