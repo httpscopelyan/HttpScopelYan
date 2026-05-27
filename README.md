@@ -72,23 +72,6 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 
 ---
 
-## Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Scopelyann&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&icon_color=9b72cf&title_color=9b72cf"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scopelyann&layout=compact&langs_count=6&theme=midnight-purple&hide_border=true&bg_color=0a0a0a&title_color=9b72cf"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Scopelyann&theme=midnight-purple&hide_border=true&background=0a0a0a&dates=6b6b6b&ring=9b72cf&fire=9b72cf&currStreakLabel=9b72cf&sideLabels=9b72cf)](https://git.io/streak-stats)
-
-</div>
-
----
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=9b72cf)](https://linkedin.com/in/seu-linkedin)
