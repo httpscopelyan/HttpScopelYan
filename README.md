@@ -86,7 +86,6 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?user=httpscopelyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=httpscopelyan&layout=compact&theme=tokyonight)"/>
 <img src="https://streak-stats.demolab.com?user=httpscopelyan&theme=tokyonight"/>
 </div>
