@@ -86,10 +86,10 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xynexoxz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynexoxz&layout=compact&theme=tokyonight"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=xynexoxz&theme=tokyonight"/>
 
 </div>
