@@ -90,6 +90,6 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xynexoxz&layout=compact&theme=tokyonight"/>
 
-<img src="https://streak-stats.demolab.com?user=xynexoxz&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=httpscopelyan&theme=tokyonight"/>
 
 </div>
