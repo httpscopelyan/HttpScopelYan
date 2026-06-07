@@ -81,3 +81,15 @@ I build full-stack applications with clean architecture, AI-powered workflows, a
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b5e,50:1a0a2e,100:0a0a0a&height=120&section=footer" width="100%"/>
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=false)
+
+</div>
